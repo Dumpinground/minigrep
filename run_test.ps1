@@ -1,1 +1,1 @@
-cargo run -- the poem.txt
+cargo run -- monomorphization poem.txt
